@@ -1,4 +1,4 @@
-# Routin
+# Routing
 
 Wave algorithm for solving routing problem.
 
